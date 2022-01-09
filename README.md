@@ -1,6 +1,6 @@
 # EMEM3 - Random walk implementation
 
-This MATLAB implementation outputs a statistically accurate random walk simulation, visually consistent with what can be expected from observing colloids in suspention in a viscous fluid under a microscope. 
+This MATLAB implementation outputs a statistically accurate random walk simulation, visually consistent with what can be expected from observing colloids in suspention in a viscous fluid under a microscope. To run the code, download the contents of the repo, place them all in the same folder, and run random_walker.m in MATLAB.
 
 The parameters the user can play with are 
 
